@@ -1,8 +1,8 @@
 %PDF-1.6
 %–‘≈ÿ
-65 0 obj
+44 0 obj
 <<
-/Length 8192      
+/Length 8195      
 >>
 stream
 0 g 0 G
@@ -186,7 +186,7 @@ EMC
 /LBody <</MCID 12>> BDC
 1 0 0 1 -101.265 -256.904 cm
 BT
-/F45 11.9552 Tf 101.265 256.904 Td [(Class)-250(time)-250(and)-250(location:)-310(T)90(uesdays)-250(and)-250(Thursdays,)-250(12)-250(pm)-250(\226)-250(1:20)-250(pm,)-250(Kent)-250(103)]TJ
+/F45 11.9552 Tf 101.265 256.904 Td [(Class)-250(time)-250(and)-250(location:)-310(T)90(uesdays)-250(and)-250(Thursdays,)-250(12:30)-250(pm)-250(\226)-250(1:50)-250(pm,)-250(Kent)-250(103)]TJ
 0 g 0 G
 0 g 0 G
 0 g 0 G
@@ -285,9 +285,9 @@ EMC
 
 endstream
 endobj
-102 0 obj
+84 0 obj
 <<
-/Length 7947      
+/Length 7923      
 >>
 stream
 0 g 0 G
@@ -559,12 +559,10 @@ BT
 0 g 0 G
  0 -14.446 Td [(this)-276(class)-276(after)-276(you)-276(have)-277(completed)-276(the)-276(SDS)-276(pr)18(ocedur)18(es)-276(for)-276(r)18(equesting)-276(accommodations.)]TJ
 0 g 0 G
+0 g 0 G
+0 g 0 G
 ET
-1 0 0 1 72 80.472 cm
-EMC
-0 g 0 G
-0 g 0 G
-1 0 0 1 0 -38.36 cm
+1 0 0 1 72 42.112 cm
 /Artifact <</Type /Pagination>> BDC
 1 0 0 1 -72 -42.112 cm
 BT
@@ -576,16 +574,13 @@ EMC
 
 endstream
 endobj
-108 0 obj
+93 0 obj
 <<
-/Length 588       
+/Length 530       
 >>
 stream
 0 g 0 G
 0 g 0 G
-1 0 0 1 72 720 cm
-/P <</MCID 41>> BDC
-1 0 0 1 -72 -720 cm
 BT
 /F45 11.9552 Tf 72 708.045 Td [(SDS)-250(contact)-250(information:)]TJ
 0 g 0 G
@@ -598,12 +593,12 @@ BT
 0 g 0 G
  0 -14.446 Td [(W)92(ebsite:)-310(https://disabilities.uchicago.edu)]TJ
 0 g 0 G
+0 g 0 G
 ET
-1 0 0 1 72 664.707 cm
+1 0 0 1 72 661.336 cm
 EMC
 0 g 0 G
-0 g 0 G
-1 0 0 1 0 -622.595 cm
+1 0 0 1 0 -619.224 cm
 /Artifact <</Type /Pagination>> BDC
 1 0 0 1 -72 -42.112 cm
 BT
@@ -615,7 +610,7 @@ EMC
 
 endstream
 endobj
-115 0 obj
+99 0 obj
 <<
 /Length1 1614
 /Length2 14965
@@ -723,333 +718,7 @@ t/Ê97 Y*íøe+OëÒ√⁄9P„ÙeˆæÕò•ËAT,Óòâ0oùhXOãÎEd—dßC≠m£p?kçÊaÁ§T(iÈÊCorŸπ1U~_
 ÙNÁ¥”öÃÄß¶7€B∆JùcˆQËçè°ßÛÍŸ©°Ï)Pu}>÷ã¸˚◊Ò‹c‚˛æNÑ]ÂﬂnësòüHëïpÚÂmr”Mè6’TÁ»fYØDzÏÂÕVMÀƒ¶*SüÕÁ‘–R+?¡ñ˘à2ªùåG≈î’!`ÅÑH[ïÖiZ5°OFËR£òÔ;≈sºıLI&<)p/Ø¬ﬂÉX˙ßøò≈c+1Ÿ¸µp[ü2V«KKú‡¸ H,ßh¸˜<4¨¨£=†(w;t€;îÁ"i`Ÿ"HìL)4àÇÑÅˆ=4òV£‹É«oÿ!œ_-í'\9√„5lD à'ùâ+ÃV”Eµ3#+Päml˙R1I•‚O1™CìÀd:H!‚mèy5Öëƒïe.éiçmÇyô©‹xÙs	0ì¸ßÜÎí4kπr∫óÂ®#G'ÀËZ˘A˘/h{–ƒ¥êø:ö”'¢ ß;ﬁ
 endstream
 endobj
-4 0 obj
-<<
-/Type /ObjStm
-/N 100
-/First 803
-/Length 13275     
->>
-stream
-3 0 7 40 8 159 11 199 12 363 15 404 16 613 19 654 20 752 23 793
-24 1052 26 1095 27 1195 29 1295 30 1399 28 1503 31 1685 34 1785 37 1888 38 1993
-36 2101 40 2183 41 2289 39 2397 43 2479 44 2585 42 2693 46 2775 47 2881 45 2989
-49 3071 50 3177 48 3285 35 3367 33 3470 52 3580 53 3684 56 3786 58 3892 55 4000
-61 4082 25 4188 32 4310 66 4511 67 4561 5 4607 9 4654 64 4703 62 4792 60 4900
-73 4982 74 5088 72 5196 77 5278 78 5384 76 5492 81 5574 82 5680 80 5788 85 5870
-86 5976 84 6084 54 6166 88 6276 51 6378 91 6509 92 6613 93 6715 90 6817 95 6950
-96 7054 94 7156 98 7261 57 7365 59 7539 63 7869 75 8148 79 8346 83 8541 87 8907
-89 9083 100 9285 103 9459 13 9510 17 9560 21 9610 101 9660 99 9738 97 9876 2 10012
-105 10147 1 10508 104 10648 106 10754 109 11022 107 11074 112 11140 113 11484 114 11578 116 12145
-% 3 0 obj
-<< /S /GoTo /D (section.1) >>
-% 7 0 obj
-(\376\377\000G\000e\000n\000e\000r\000a\000l\000\040\000i\000n\000f\000o\000r\000m\000a\000t\000i\000o\000n)
-% 8 0 obj
-<< /S /GoTo /D (section.2) >>
-% 11 0 obj
-(\376\377\000R\000e\000s\000o\000u\000r\000c\000e\000s\000\040\000\050\000n\000o\000t\000\040\000e\000x\000h\000a\000u\000s\000t\000i\000v\000e\000\051)
-% 12 0 obj
-<< /S /GoTo /D (section.3) >>
-% 15 0 obj
-(\376\377\000G\000r\000a\000d\000i\000n\000g\000\040\000i\000n\000f\000o\000r\000m\000a\000t\000i\000o\000n\000\040\000a\000n\000d\000\040\000l\000a\000t\000e\000\040\000p\000o\000l\000i\000c\000y)
-% 16 0 obj
-<< /S /GoTo /D (section.4) >>
-% 19 0 obj
-(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000t\000o\000p\000i\000c\000s)
-% 20 0 obj
-<< /S /GoTo /D (section.5) >>
-% 23 0 obj
-(\376\377\000A\000c\000c\000o\000m\000m\000o\000d\000a\000t\000i\000o\000n\000s\000\040\000f\000o\000r\000\040\000S\000t\000u\000d\000e\000n\000t\000s\000\040\000w\000i\000t\000h\000\040\000D\000i\000s\000a\000b\000i\000l\000i\000t\000i\000e\000s)
-% 24 0 obj
-<< /S /GoTo /D [25 0 R /Fit] >>
-% 26 0 obj
-<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 0>>] /S /P >>
-% 27 0 obj
-<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 1>>] /S /P >>
-% 29 0 obj
-<</Type /StructElem /P 28 0 R /C /Normal /K <</Type /MCR /Pg 25 0 R /MCID 3>> /S /Span    >>
-% 30 0 obj
-<</Type /StructElem /P 28 0 R /C /Normal /K <</Type /MCR /Pg 25 0 R /MCID 5>> /S /Span    >>
-% 28 0 obj
-<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 2>> 29 0 R <</Type /MCR /Pg 25 0 R /MCID 4>> 30 0 R <</Type /MCR /Pg 25 0 R /MCID 6>>] /S /P >>
-% 31 0 obj
-<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 7>>] /S /P >>
-% 34 0 obj
-<</Type /StructElem /P 33 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 8>>] /S /H   >>
-% 37 0 obj
-<</Type /StructElem /P 36 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 9>>] /S /Lbl   >>
-% 38 0 obj
-<</Type /StructElem /P 36 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 10>>] /S /LBody   >>
-% 36 0 obj
-<</Type /StructElem /P 35 0 R /C /Normal  /K [ 37 0 R 38 0 R] /S /LI>>
-% 40 0 obj
-<</Type /StructElem /P 39 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 11>>] /S /Lbl   >>
-% 41 0 obj
-<</Type /StructElem /P 39 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 12>>] /S /LBody   >>
-% 39 0 obj
-<</Type /StructElem /P 35 0 R /C /Normal  /K [ 40 0 R 41 0 R] /S /LI>>
-% 43 0 obj
-<</Type /StructElem /P 42 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 13>>] /S /Lbl   >>
-% 44 0 obj
-<</Type /StructElem /P 42 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 14>>] /S /LBody   >>
-% 42 0 obj
-<</Type /StructElem /P 35 0 R /C /Normal  /K [ 43 0 R 44 0 R] /S /LI>>
-% 46 0 obj
-<</Type /StructElem /P 45 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 15>>] /S /Lbl   >>
-% 47 0 obj
-<</Type /StructElem /P 45 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 16>>] /S /LBody   >>
-% 45 0 obj
-<</Type /StructElem /P 35 0 R /C /Normal  /K [ 46 0 R 47 0 R] /S /LI>>
-% 49 0 obj
-<</Type /StructElem /P 48 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 17>>] /S /Lbl   >>
-% 50 0 obj
-<</Type /StructElem /P 48 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 18>>] /S /LBody   >>
-% 48 0 obj
-<</Type /StructElem /P 35 0 R /C /Normal  /K [ 49 0 R 50 0 R] /S /LI>>
-% 35 0 obj
-<</Type /StructElem /P 33 0 R /C /Normal  /K [ 36 0 R 39 0 R 42 0 R 45 0 R 48 0 R] /S /L1>>
-% 33 0 obj
-<</Type /StructElem /P 2 0 R /T (General information)/C /Normal  /K [ 34 0 R 35 0 R] /S /Section>>
-% 52 0 obj
-<</Type /StructElem /P 51 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 19>>] /S /H   >>
-% 53 0 obj
-<</Type /StructElem /P 51 0 R /C /Normal /K [ <</Type /MCR /Pg 25 0 R /MCID 20>>] /S /P >>
-% 56 0 obj
-<</Type /StructElem /P 55 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 21>>] /S /Lbl   >>
-% 58 0 obj
-<</Type /StructElem /P 55 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 22>>] /S /LBody   >>
-% 55 0 obj
-<</Type /StructElem /P 54 0 R /C /Normal  /K [ 56 0 R 58 0 R] /S /LI>>
-% 61 0 obj
-<</Type /StructElem /P 60 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 23>>] /S /Lbl   >>
-% 25 0 obj
-<<
-/Type /Page
-/Contents 65 0 R
-/Resources 64 0 R
-/MediaBox [0 0 612 792]
-/Parent 71 0 R
-/Annots [ 32 0 R ]
->>
-% 32 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [167.732 345.828 228.16 359.842]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/ni-sha-c/computational-dynamics-winter-26)>>
->>
-% 66 0 obj
-<<
-/D [25 0 R /XYZ 71 757.862 null]
->>
-% 67 0 obj
-<<
-/D [25 0 R /XYZ 72 720 null]
->>
-% 5 0 obj
-<<
-/D [25 0 R /XYZ 72 327.2 null]
->>
-% 9 0 obj
-<<
-/D [25 0 R /XYZ 72 147.731 null]
->>
-% 64 0 obj
-<<
-/Font << /F45 68 0 R /F48 69 0 R /F49 70 0 R >>
-/ProcSet [ /PDF /Text ]
->>
-% 62 0 obj
-<</Type /StructElem /P 60 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 24>>] /S /LBody   >>
-% 60 0 obj
-<</Type /StructElem /P 54 0 R /C /Normal  /K [ 61 0 R 62 0 R] /S /LI>>
-% 73 0 obj
-<</Type /StructElem /P 72 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 25>>] /S /Lbl   >>
-% 74 0 obj
-<</Type /StructElem /P 72 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 26>>] /S /LBody   >>
-% 72 0 obj
-<</Type /StructElem /P 54 0 R /C /Normal  /K [ 73 0 R 74 0 R] /S /LI>>
-% 77 0 obj
-<</Type /StructElem /P 76 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 27>>] /S /Lbl   >>
-% 78 0 obj
-<</Type /StructElem /P 76 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 28>>] /S /LBody   >>
-% 76 0 obj
-<</Type /StructElem /P 54 0 R /C /Normal  /K [ 77 0 R 78 0 R] /S /LI>>
-% 81 0 obj
-<</Type /StructElem /P 80 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 29>>] /S /Lbl   >>
-% 82 0 obj
-<</Type /StructElem /P 80 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 30>>] /S /LBody   >>
-% 80 0 obj
-<</Type /StructElem /P 54 0 R /C /Normal  /K [ 81 0 R 82 0 R] /S /LI>>
-% 85 0 obj
-<</Type /StructElem /P 84 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 31>>] /S /Lbl   >>
-% 86 0 obj
-<</Type /StructElem /P 84 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 32>>] /S /LBody   >>
-% 84 0 obj
-<</Type /StructElem /P 54 0 R /C /Normal  /K [ 85 0 R 86 0 R] /S /LI>>
-% 54 0 obj
-<</Type /StructElem /P 51 0 R /C /Normal  /K [ 55 0 R 60 0 R 72 0 R 76 0 R 80 0 R 84 0 R] /S /L1>>
-% 88 0 obj
-<</Type /StructElem /P 51 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 33>>] /S /P >>
-% 51 0 obj
-<</Type /StructElem /P 2 0 R /T (Resources (not exhaustive))/C /Normal  /K [ 52 0 R 53 0 R 54 0 R 88 0 R] /S /Section>>
-% 91 0 obj
-<</Type /StructElem /P 90 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 34>>] /S /H   >>
-% 92 0 obj
-<</Type /StructElem /P 90 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 35>>] /S /P >>
-% 93 0 obj
-<</Type /StructElem /P 90 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 36>>] /S /P >>
-% 90 0 obj
-<</Type /StructElem /P 2 0 R /T (Grading information and late policy)/C /Normal  /K [ 91 0 R 92 0 R 93 0 R] /S /Section>>
-% 95 0 obj
-<</Type /StructElem /P 94 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 37>>] /S /H   >>
-% 96 0 obj
-<</Type /StructElem /P 94 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 38>>] /S /P >>
-% 94 0 obj
-<</Type /StructElem /P 2 0 R /T (List of topics)/C /Normal  /K [ 95 0 R 96 0 R] /S /Section>>
-% 98 0 obj
-<</Type /StructElem /P 97 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 39>>] /S /H   >>
-% 57 0 obj
-<<
-/Type /Page
-/Contents 102 0 R
-/Resources 101 0 R
-/MediaBox [0 0 612 792]
-/Parent 71 0 R
-/Annots [ 59 0 R 63 0 R 75 0 R 79 0 R 83 0 R 87 0 R 89 0 R 100 0 R ]
->>
-% 59 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [100.269 703.677 401.549 717.691]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://books.google.com/books?hl=en&lr=&id=9nL7ZX8Djp4C&oi=fnd&pg=PR7&dq=katok+and+hasselblatt&ots=oWieU2cCAH&sig=T-g4-msNhCCTTpoSyMb09ZhnF2Y#v=onepage&q=katok%20and%20hasselblatt&f=false)>>
->>
-% 63 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [100.269 664.823 266.368 678.836]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://books.google.com/books?hl=en&lr=&id=wUBvDwAAQBAJ&oi=fnd&pg=PT7&ots=AOtaTsiIyX&sig=MexxyAiFbXhsxZNKq6V7YLjjv5w#v=onepage&q&f=false)>>
->>
-% 75 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [100.269 640.415 390.915 654.428]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://link.springer.com/book/10.1007/978-3-662-12616-5)>>
->>
-% 79 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [100.269 616.006 283.476 630.019]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://www.nowpublishers.com/article/Details/MAL-073)>>
->>
-% 83 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [100.269 577.152 280.196 591.165]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://books.google.com/books?hl=en&lr=&id=dWB9DwAAQBAJ&oi=fnd&pg=PR5&dq=foundations+of+machine+learning+mohri&ots=AznTXOq_s4&sig=oFBecq2rS2nusMY-xRj1qD-0Dsk#v=onepage&q=foundations%20of%20machine%20learning%20mohri&f=false)>>
->>
-% 87 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [438.179 525.262 509.14 537.865]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://doi.org/10.7907/q75sz-e1e79)>>
->>
-% 89 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [339.765 499.443 400.787 513.456]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/ni-sha-c/computational-dynamics-winter-26)>>
->>
-% 100 0 obj
-<<
-/Type /Annot
-/Border[0 0 0]/H/I/C[0 1 1]
-/Rect [71.004 90.551 216.718 104.564]
-/Subtype/Link/A<</Type/Action/S/URI/URI(https://disabilities.uchicago.edu)>>
->>
-% 103 0 obj
-<<
-/D [57 0 R /XYZ 71 757.862 null]
->>
-% 13 0 obj
-<<
-/D [57 0 R /XYZ 72 469.484 null]
->>
-% 17 0 obj
-<<
-/D [57 0 R /XYZ 72 241.953 null]
->>
-% 21 0 obj
-<<
-/D [57 0 R /XYZ 72 155.252 null]
->>
-% 101 0 obj
-<<
-/Font << /F45 68 0 R /F49 70 0 R >>
-/ProcSet [ /PDF /Text ]
->>
-% 99 0 obj
-<</Type /StructElem /P 97 0 R /C /Normal /K [ <</Type /MCR /Pg 57 0 R /MCID 40>> <</Type /MCR /Pg 104 0 R /MCID 41>>] /S /P >>
-% 97 0 obj
-<</Type /StructElem /P 2 0 R /T (Accommodations for Students with Disabilities)/C /Normal  /K [ 98 0 R 99 0 R] /S /Section>>
-% 2 0 obj
-<</Type /StructElem /P 1 0 R /C /Normal  /K [ 26 0 R 27 0 R 28 0 R 31 0 R 33 0 R 51 0 R 90 0 R 94 0 R 97 0 R] /S /Document>>
-% 105 0 obj
-<</Normal <</O /Layout /EndIndent 0.0 /SpaceAfter 0.0 /SpaceBefore 0.0 /StartIndent 0.0 /WritingMode /LrTb /TextAlign /Start>> /CM1 <</O /Layout /TextAlign /Justify>> /CM2 <</O /Layout /TextAlign /Center>> /CM3 <</O /Layout /TextAlign /Start>> /CM4 <</O /Layout /InlineAlign /Center /Placement /Block /SpaceAfter 12.125 /BBox [266 314 329 336]>> >>
-% 1 0 obj
-<</Type /StructTreeRoot /RoleMap 106 0 R /ClassMap 105 0 R /ParentTree <</Nums [0 [ 2 0 R]]>> /ParentTreeNextKey 1 /K [ 2 0 R] >>
-% 104 0 obj
-<<
-/Type /Page
-/Contents 108 0 R
-/Resources 107 0 R
-/MediaBox [0 0 612 792]
-/Parent 71 0 R
->>
-% 106 0 obj
-<</IndexItem /Span /TOF /TOC /TOFI /TOCI /TOT /TOC /TOTI /TOCI /Titlepage /Sect /Bibliography /L /BibItem /LI /ParagraphSpan /Span /Footnote /Note /Chapter /Sect/Section /Sect/Subsection /Sect/Subsubsection /Sect/Float /Div/L1 /L/L2 /L/L3 /L/L4 /L/L5 /L>>
-% 109 0 obj
-<<
-/D [104 0 R /XYZ 71 757.862 null]
->>
-% 107 0 obj
-<<
-/Font << /F45 68 0 R >>
-/ProcSet [ /PDF /Text ]
->>
-% 112 0 obj
-[333 333 444 606 250 333 250 296 500 500 500 500 500 500 500 500 500 500 250 250 606 606 606 444 747 778 667 722 833 611 556 833 833 389 389 778 611 1000 833 833 611 833 722 611 667 778 778 1000 667 667 667 333 606 333 606 500 278 500 611 444 611 500 389 556 611 333 333 611 333 889 611 556 611 611 389 444 333 611 556 833 500 556]
-% 113 0 obj
-[444 463 407 500 389 278 500 500 278 278 444 278 778 556 444 500 463 389 389 333]
-% 114 0 obj
-[605 608 167 380 611 291 313 333 0 333 606 0 667 500 333 287 0 0 0 0 0 0 0 0 0 0 0 0 333 208 250 278 371 500 500 840 778 278 333 333 389 606 250 333 250 606 500 500 500 500 500 500 500 500 500 500 250 250 606 606 606 444 747 778 611 709 774 611 556 763 832 337 333 726 611 946 831 786 604 786 668 525 613 778 722 1000 667 667 667 333 606 333 606 500 278 500 553 444 611 479 333 556 582 291 234 556 291 883 582 546 601 560 395 424 326 603 565 834 516 556 500 333 606 333 606 0 0 0 278 500 500 1000 500 500 333 1144 525 331 998 0 0 0 0 0 0 500 500 606 500]
-% 116 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QREUIH+URWPalladioL-Bold
-/Flags 4
-/FontBBox [-152 -301 1000 935]
-/Ascent 708
-/CapHeight 672
-/Descent -266
-/ItalicAngle 0
-/StemV 123
-/XHeight 471
-/CharSet (/A/D/G/L/R/S/a/b/c/d/e/f/five/four/g/h/i/l/m/n/o/one/p/parenleft/parenright/r/s/t/three/two/u/v/w/x/y)
-/FontFile 115 0 R
->>
-
-endstream
-endobj
-117 0 obj
+101 0 obj
 <<
 /Length1 1616
 /Length2 23137
@@ -1182,7 +851,7 @@ I¿Iˆ•§|IAç∆Q¢°\§sÔô¯å:†’‰$HÙ7':ãﬁ%FÃ?ì˚¬Áá»U2w†ø1©"S›èmevÇ≤ÛD)ZKËú( „$ø’
 ywÎ÷ì•oùÆbõ˚7µõÈ•qh_`\˜|7.b>>›{Lü‰JΩåpqHﬁ ¡Sˇ:íﬂn∂πùè&*é¥;…iê˜‰‘ÈÈ’HXªœr}1§rmJ˛sÙ$5ÖÁíˆÇ (ﬂòÑ„m∂y…ãnôC™opÈIõîÄÒ∞ßò_∏`*“ñÛ:3ŒxxwÈ
 endstream
 endobj
-120 0 obj
+103 0 obj
 <<
 /Length1 1620
 /Length2 6425
@@ -1250,7 +919,7 @@ l:=—_U·xIé®◊ﬂûé>ŒiF‹ñÓ¥t>§G)π§Ô£e[& *ÚØKn@∫\Ö0√’,}®¶÷À—„ƒñ¨ˆÆ£KFh](—‘ú
 ›€¸Ø7∫%ómåÕé©∂Îﬁt˙æbì@ùØ/Nq4"›ﬂV$}”Ò`âìÇK·4kÜÁuy$Ω!ÛáÕÔ˚î$B˝∏dYΩèﬁa’¶õ“fB]§)f;¨}¥y∆4'öD)≤ìêYÓIÁ.+„í(g4õ‘Ø¸fªﬁÇﬁFæ(RﬂÑ?OZ'¢IÓ≠UÄG"vX3‚ø·ø—ë0÷â,7!kèXç*˛Ø>èÜ^3ÁòÁ∫·ΩÄÓtÔ∏êÏü/&®Àk[ÔÂº√Û”˛Èá¨4˘õ„@Oû⁄…fÈ<Ùõú8˜|Éˆèƒ:;˜˛˙∏Xz◊l∂h˘´
 endstream
 endobj
-122 0 obj
+105 0 obj
 <<
 /Length 1477      
 >>
@@ -1353,7 +1022,7 @@ end
 
 endstream
 endobj
-123 0 obj
+106 0 obj
 <<
 /Length 1477      
 >>
@@ -1456,7 +1125,7 @@ end
 
 endstream
 endobj
-124 0 obj
+107 0 obj
 <<
 /Length 1482      
 >>
@@ -1559,27 +1228,310 @@ end
 
 endstream
 endobj
-131 0 obj
-<<
-/Producer (pdfTeX-1.40.25)
-/Author(\376\377\000N\000i\000s\000h\000a\000\040\000C\000h\000a\000n\000d\000r\000a\000m\000o\000o\000r\000t\000h\000y)/Title(\376\377\000C\000o\000u\000r\000s\000e\000\040\000S\000y\000l\000l\000a\000b\000u\000s)/Subject()/Creator(LaTeX with hyperref)/Keywords()
-/CreationDate (D:20260105132235-06'00')
-/ModDate (D:20260105132235-06'00')
-/Trapped /False
-/PTEX.Fullbanner (This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) kpathsea version 6.3.5)
->>
-endobj
-119 0 obj
+4 0 obj
 <<
 /Type /ObjStm
-/N 18
-/First 147
-/Length 2886      
+/N 100
+/First 798
+/Length 14166     
 >>
 stream
-118 0 121 483 111 733 70 1067 68 1253 69 1438 71 1624 125 1693 22 1762 18 1832
-14 1915 10 1998 6 2079 126 2146 127 2312 128 2430 129 2506 130 2539
-% 118 0 obj
+3 0 6 41 7 139 9 237 10 338 8 440 11 617 14 716 17 818 18 922
+16 1029 20 1111 21 1216 19 1323 23 1405 24 1510 22 1617 26 1699 27 1804 25 1911
+29 1993 30 2098 28 2205 15 2287 13 2390 32 2500 33 2603 36 2704 37 2809 35 2916
+40 2998 5 3103 12 3224 45 3425 46 3474 49 3519 51 3566 43 3615 41 3704 39 3811
+54 3893 56 3999 53 4107 59 4189 60 4295 58 4403 63 4485 64 4591 62 4699 67 4781
+68 4887 66 4995 34 5077 70 5187 31 5289 73 5420 74 5524 75 5626 72 5728 77 5861
+78 5965 76 6067 80 6172 55 6276 38 6447 42 6777 57 7056 61 7254 65 7449 69 7815
+71 7991 82 8193 85 8366 86 8416 87 8466 88 8516 83 8566 81 8643 79 8745 2 8881
+89 9013 1 9373 92 9511 90 9614 94 9881 91 9931 96 9996 97 10339 98 10432 100 10998
+102 11324 104 11807 95 12057 50 12390 47 12574 48 12757 52 12941 108 13008 109 13174 110 13292
+% 3 0 obj
+<< /S /GoTo /D [5 0 R /Fit] >>
+% 6 0 obj
+<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 0>>] /S /P >>
+% 7 0 obj
+<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 1>>] /S /P >>
+% 9 0 obj
+<</Type /StructElem /P 8 0 R /C /Normal /K <</Type /MCR /Pg 5 0 R /MCID 3>> /S /Span    >>
+% 10 0 obj
+<</Type /StructElem /P 8 0 R /C /Normal /K <</Type /MCR /Pg 5 0 R /MCID 5>> /S /Span    >>
+% 8 0 obj
+<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 2>> 9 0 R <</Type /MCR /Pg 5 0 R /MCID 4>> 10 0 R <</Type /MCR /Pg 5 0 R /MCID 6>>] /S /P >>
+% 11 0 obj
+<</Type /StructElem /P 2 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 7>>] /S /P >>
+% 14 0 obj
+<</Type /StructElem /P 13 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 8>>] /S /H   >>
+% 17 0 obj
+<</Type /StructElem /P 16 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 9>>] /S /Lbl   >>
+% 18 0 obj
+<</Type /StructElem /P 16 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 10>>] /S /LBody   >>
+% 16 0 obj
+<</Type /StructElem /P 15 0 R /C /Normal  /K [ 17 0 R 18 0 R] /S /LI>>
+% 20 0 obj
+<</Type /StructElem /P 19 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 11>>] /S /Lbl   >>
+% 21 0 obj
+<</Type /StructElem /P 19 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 12>>] /S /LBody   >>
+% 19 0 obj
+<</Type /StructElem /P 15 0 R /C /Normal  /K [ 20 0 R 21 0 R] /S /LI>>
+% 23 0 obj
+<</Type /StructElem /P 22 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 13>>] /S /Lbl   >>
+% 24 0 obj
+<</Type /StructElem /P 22 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 14>>] /S /LBody   >>
+% 22 0 obj
+<</Type /StructElem /P 15 0 R /C /Normal  /K [ 23 0 R 24 0 R] /S /LI>>
+% 26 0 obj
+<</Type /StructElem /P 25 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 15>>] /S /Lbl   >>
+% 27 0 obj
+<</Type /StructElem /P 25 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 16>>] /S /LBody   >>
+% 25 0 obj
+<</Type /StructElem /P 15 0 R /C /Normal  /K [ 26 0 R 27 0 R] /S /LI>>
+% 29 0 obj
+<</Type /StructElem /P 28 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 17>>] /S /Lbl   >>
+% 30 0 obj
+<</Type /StructElem /P 28 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 18>>] /S /LBody   >>
+% 28 0 obj
+<</Type /StructElem /P 15 0 R /C /Normal  /K [ 29 0 R 30 0 R] /S /LI>>
+% 15 0 obj
+<</Type /StructElem /P 13 0 R /C /Normal  /K [ 16 0 R 19 0 R 22 0 R 25 0 R 28 0 R] /S /L1>>
+% 13 0 obj
+<</Type /StructElem /P 2 0 R /T (General information)/C /Normal  /K [ 14 0 R 15 0 R] /S /Section>>
+% 32 0 obj
+<</Type /StructElem /P 31 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 19>>] /S /H   >>
+% 33 0 obj
+<</Type /StructElem /P 31 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 20>>] /S /P >>
+% 36 0 obj
+<</Type /StructElem /P 35 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 21>>] /S /Lbl   >>
+% 37 0 obj
+<</Type /StructElem /P 35 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 22>>] /S /LBody   >>
+% 35 0 obj
+<</Type /StructElem /P 34 0 R /C /Normal  /K [ 36 0 R 37 0 R] /S /LI>>
+% 40 0 obj
+<</Type /StructElem /P 39 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 23>>] /S /Lbl   >>
+% 5 0 obj
+<<
+/Type /Page
+/Contents 44 0 R
+/Resources 43 0 R
+/MediaBox [0 0 612 792]
+/Parent 52 0 R
+/Annots [ 12 0 R ]
+>>
+% 12 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [167.732 345.828 228.16 359.842]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/ni-sha-c/computational-dynamics-winter-26)>>
+>>
+% 45 0 obj
+<<
+/D [5 0 R /XYZ 71 757.862 null]
+>>
+% 46 0 obj
+<<
+/D [5 0 R /XYZ 72 720 null]
+>>
+% 49 0 obj
+<<
+/D [5 0 R /XYZ 72 327.2 null]
+>>
+% 51 0 obj
+<<
+/D [5 0 R /XYZ 72 147.731 null]
+>>
+% 43 0 obj
+<<
+/Font << /F45 47 0 R /F48 48 0 R /F49 50 0 R >>
+/ProcSet [ /PDF /Text ]
+>>
+% 41 0 obj
+<</Type /StructElem /P 39 0 R /C /Normal /K [ <</Type /MCR /Pg 5 0 R /MCID 24>>] /S /LBody   >>
+% 39 0 obj
+<</Type /StructElem /P 34 0 R /C /Normal  /K [ 40 0 R 41 0 R] /S /LI>>
+% 54 0 obj
+<</Type /StructElem /P 53 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 25>>] /S /Lbl   >>
+% 56 0 obj
+<</Type /StructElem /P 53 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 26>>] /S /LBody   >>
+% 53 0 obj
+<</Type /StructElem /P 34 0 R /C /Normal  /K [ 54 0 R 56 0 R] /S /LI>>
+% 59 0 obj
+<</Type /StructElem /P 58 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 27>>] /S /Lbl   >>
+% 60 0 obj
+<</Type /StructElem /P 58 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 28>>] /S /LBody   >>
+% 58 0 obj
+<</Type /StructElem /P 34 0 R /C /Normal  /K [ 59 0 R 60 0 R] /S /LI>>
+% 63 0 obj
+<</Type /StructElem /P 62 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 29>>] /S /Lbl   >>
+% 64 0 obj
+<</Type /StructElem /P 62 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 30>>] /S /LBody   >>
+% 62 0 obj
+<</Type /StructElem /P 34 0 R /C /Normal  /K [ 63 0 R 64 0 R] /S /LI>>
+% 67 0 obj
+<</Type /StructElem /P 66 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 31>>] /S /Lbl   >>
+% 68 0 obj
+<</Type /StructElem /P 66 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 32>>] /S /LBody   >>
+% 66 0 obj
+<</Type /StructElem /P 34 0 R /C /Normal  /K [ 67 0 R 68 0 R] /S /LI>>
+% 34 0 obj
+<</Type /StructElem /P 31 0 R /C /Normal  /K [ 35 0 R 39 0 R 53 0 R 58 0 R 62 0 R 66 0 R] /S /L1>>
+% 70 0 obj
+<</Type /StructElem /P 31 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 33>>] /S /P >>
+% 31 0 obj
+<</Type /StructElem /P 2 0 R /T (Resources (not exhaustive))/C /Normal  /K [ 32 0 R 33 0 R 34 0 R 70 0 R] /S /Section>>
+% 73 0 obj
+<</Type /StructElem /P 72 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 34>>] /S /H   >>
+% 74 0 obj
+<</Type /StructElem /P 72 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 35>>] /S /P >>
+% 75 0 obj
+<</Type /StructElem /P 72 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 36>>] /S /P >>
+% 72 0 obj
+<</Type /StructElem /P 2 0 R /T (Grading information and late policy)/C /Normal  /K [ 73 0 R 74 0 R 75 0 R] /S /Section>>
+% 77 0 obj
+<</Type /StructElem /P 76 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 37>>] /S /H   >>
+% 78 0 obj
+<</Type /StructElem /P 76 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 38>>] /S /P >>
+% 76 0 obj
+<</Type /StructElem /P 2 0 R /T (List of topics)/C /Normal  /K [ 77 0 R 78 0 R] /S /Section>>
+% 80 0 obj
+<</Type /StructElem /P 79 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 39>>] /S /H   >>
+% 55 0 obj
+<<
+/Type /Page
+/Contents 84 0 R
+/Resources 83 0 R
+/MediaBox [0 0 612 792]
+/Parent 52 0 R
+/Annots [ 38 0 R 42 0 R 57 0 R 61 0 R 65 0 R 69 0 R 71 0 R 82 0 R ]
+>>
+% 38 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [100.269 703.677 401.549 717.691]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://books.google.com/books?hl=en&lr=&id=9nL7ZX8Djp4C&oi=fnd&pg=PR7&dq=katok+and+hasselblatt&ots=oWieU2cCAH&sig=T-g4-msNhCCTTpoSyMb09ZhnF2Y#v=onepage&q=katok%20and%20hasselblatt&f=false)>>
+>>
+% 42 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [100.269 664.823 266.368 678.836]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://books.google.com/books?hl=en&lr=&id=wUBvDwAAQBAJ&oi=fnd&pg=PT7&ots=AOtaTsiIyX&sig=MexxyAiFbXhsxZNKq6V7YLjjv5w#v=onepage&q&f=false)>>
+>>
+% 57 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [100.269 640.415 390.915 654.428]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://link.springer.com/book/10.1007/978-3-662-12616-5)>>
+>>
+% 61 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [100.269 616.006 283.476 630.019]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://www.nowpublishers.com/article/Details/MAL-073)>>
+>>
+% 65 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [100.269 577.152 280.196 591.165]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://books.google.com/books?hl=en&lr=&id=dWB9DwAAQBAJ&oi=fnd&pg=PR5&dq=foundations+of+machine+learning+mohri&ots=AznTXOq_s4&sig=oFBecq2rS2nusMY-xRj1qD-0Dsk#v=onepage&q=foundations%20of%20machine%20learning%20mohri&f=false)>>
+>>
+% 69 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [438.179 525.262 509.14 537.865]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://doi.org/10.7907/q75sz-e1e79)>>
+>>
+% 71 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [339.765 499.443 400.787 513.456]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/ni-sha-c/computational-dynamics-winter-26)>>
+>>
+% 82 0 obj
+<<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [71.004 90.551 216.718 104.564]
+/Subtype/Link/A<</Type/Action/S/URI/URI(https://disabilities.uchicago.edu)>>
+>>
+% 85 0 obj
+<<
+/D [55 0 R /XYZ 71 757.862 null]
+>>
+% 86 0 obj
+<<
+/D [55 0 R /XYZ 72 469.484 null]
+>>
+% 87 0 obj
+<<
+/D [55 0 R /XYZ 72 241.953 null]
+>>
+% 88 0 obj
+<<
+/D [55 0 R /XYZ 72 155.252 null]
+>>
+% 83 0 obj
+<<
+/Font << /F45 47 0 R /F49 50 0 R >>
+/ProcSet [ /PDF /Text ]
+>>
+% 81 0 obj
+<</Type /StructElem /P 79 0 R /C /Normal /K [ <</Type /MCR /Pg 55 0 R /MCID 40>>] /S /P >>
+% 79 0 obj
+<</Type /StructElem /P 2 0 R /T (Accommodations for Students with Disabilities)/C /Normal  /K [ 80 0 R 81 0 R] /S /Section>>
+% 2 0 obj
+<</Type /StructElem /P 1 0 R /C /Normal  /K [ 6 0 R 7 0 R 8 0 R 11 0 R 13 0 R 31 0 R 72 0 R 76 0 R 79 0 R] /S /Document>>
+% 89 0 obj
+<</Normal <</O /Layout /EndIndent 0.0 /SpaceAfter 0.0 /SpaceBefore 0.0 /StartIndent 0.0 /WritingMode /LrTb /TextAlign /Start>> /CM1 <</O /Layout /TextAlign /Justify>> /CM2 <</O /Layout /TextAlign /Center>> /CM3 <</O /Layout /TextAlign /Start>> /CM4 <</O /Layout /InlineAlign /Center /Placement /Block /SpaceAfter 12.125 /BBox [266 314 329 336]>> >>
+% 1 0 obj
+<</Type /StructTreeRoot /RoleMap 90 0 R /ClassMap 89 0 R /ParentTree <</Nums [0 [ 2 0 R]]>> /ParentTreeNextKey 1 /K [ 2 0 R] >>
+% 92 0 obj
+<<
+/Type /Page
+/Contents 93 0 R
+/Resources 91 0 R
+/MediaBox [0 0 612 792]
+/Parent 52 0 R
+>>
+% 90 0 obj
+<</IndexItem /Span /TOF /TOC /TOFI /TOCI /TOT /TOC /TOTI /TOCI /Titlepage /Sect /Bibliography /L /BibItem /LI /ParagraphSpan /Span /Footnote /Note /Chapter /Sect/Section /Sect/Subsection /Sect/Subsubsection /Sect/Float /Div/L1 /L/L2 /L/L3 /L/L4 /L/L5 /L>>
+% 94 0 obj
+<<
+/D [92 0 R /XYZ 71 757.862 null]
+>>
+% 91 0 obj
+<<
+/Font << /F45 47 0 R >>
+/ProcSet [ /PDF /Text ]
+>>
+% 96 0 obj
+[333 333 444 606 250 333 250 296 500 500 500 500 500 500 500 500 500 500 250 250 606 606 606 444 747 778 667 722 833 611 556 833 833 389 389 778 611 1000 833 833 611 833 722 611 667 778 778 1000 667 667 667 333 606 333 606 500 278 500 611 444 611 500 389 556 611 333 333 611 333 889 611 556 611 611 389 444 333 611 556 833 500 556]
+% 97 0 obj
+[444 463 407 500 389 278 500 500 278 278 444 278 778 556 444 500 463 389 389 333]
+% 98 0 obj
+[605 608 167 380 611 291 313 333 0 333 606 0 667 500 333 287 0 0 0 0 0 0 0 0 0 0 0 0 333 208 250 278 371 500 500 840 778 278 333 333 389 606 250 333 250 606 500 500 500 500 500 500 500 500 500 500 250 250 606 606 606 444 747 778 611 709 774 611 556 763 832 337 333 726 611 946 831 786 604 786 668 525 613 778 722 1000 667 667 667 333 606 333 606 500 278 500 553 444 611 479 333 556 582 291 234 556 291 883 582 546 601 560 395 424 326 603 565 834 516 556 500 333 606 333 606 0 0 0 278 500 500 1000 500 500 333 1144 525 331 998 0 0 0 0 0 0 500 500 606 500]
+% 100 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QREUIH+URWPalladioL-Bold
+/Flags 4
+/FontBBox [-152 -301 1000 935]
+/Ascent 708
+/CapHeight 672
+/Descent -266
+/ItalicAngle 0
+/StemV 123
+/XHeight 471
+/CharSet (/A/D/G/L/R/S/a/b/c/d/e/f/five/four/g/h/i/l/m/n/o/one/p/parenleft/parenright/r/s/t/three/two/u/v/w/x/y)
+/FontFile 99 0 R
+>>
+% 102 0 obj
 <<
 /Type /FontDescriptor
 /FontName /PUGBHT+URWPalladioL-Roma
@@ -1592,9 +1544,9 @@ stream
 /StemV 84
 /XHeight 469
 /CharSet (/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/R/S/T/U/W/X/Y/a/ampersand/at/b/bullet/c/colon/comma/d/e/eight/endash/f/fi/five/four/g/h/hyphen/i/j/k/l/m/n/nine/o/one/p/parenleft/parenright/percent/period/q/question/r/s/semicolon/seven/six/slash/t/three/two/u/v/w/x/y/z/zero)
-/FontFile 117 0 R
+/FontFile 101 0 R
 >>
-% 121 0 obj
+% 104 0 obj
 <<
 /Type /FontDescriptor
 /FontName /XELYEQ+URWPalladioL-Ital
@@ -1607,149 +1559,123 @@ stream
 /StemV 78
 /XHeight 482
 /CharSet (/a/c/d/e/g/i/l/n/o/r/s/t)
-/FontFile 120 0 R
+/FontFile 103 0 R
 >>
-% 111 0 obj
+% 95 0 obj
 <<
 /Type /Encoding
 /Differences [2/fi 37/percent/ampersand 40/parenleft/parenright 44/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon 63/question/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P 82/R/S/T/U 87/W/X/Y 97/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 149/bullet/endash]
 >>
-% 70 0 obj
+% 50 0 obj
 <<
 /Type /Font
 /Subtype /Type1
 /BaseFont /QREUIH+URWPalladioL-Bold
-/FontDescriptor 116 0 R
+/FontDescriptor 100 0 R
 /FirstChar 40
 /LastChar 121
-/Widths 112 0 R
-/Encoding 111 0 R
-/ToUnicode 122 0 R
+/Widths 96 0 R
+/Encoding 95 0 R
+/ToUnicode 105 0 R
 >>
-% 68 0 obj
+% 47 0 obj
 <<
 /Type /Font
 /Subtype /Type1
 /BaseFont /PUGBHT+URWPalladioL-Roma
-/FontDescriptor 118 0 R
+/FontDescriptor 102 0 R
 /FirstChar 2
 /LastChar 150
-/Widths 114 0 R
-/Encoding 111 0 R
-/ToUnicode 123 0 R
+/Widths 98 0 R
+/Encoding 95 0 R
+/ToUnicode 106 0 R
 >>
-% 69 0 obj
+% 48 0 obj
 <<
 /Type /Font
 /Subtype /Type1
 /BaseFont /XELYEQ+URWPalladioL-Ital
-/FontDescriptor 121 0 R
+/FontDescriptor 104 0 R
 /FirstChar 97
 /LastChar 116
-/Widths 113 0 R
-/Encoding 111 0 R
-/ToUnicode 124 0 R
+/Widths 97 0 R
+/Encoding 95 0 R
+/ToUnicode 107 0 R
 >>
-% 71 0 obj
+% 52 0 obj
 <<
 /Type /Pages
 /Count 3
-/Kids [25 0 R 57 0 R 104 0 R]
+/Kids [5 0 R 55 0 R 92 0 R]
 >>
-% 125 0 obj
+% 108 0 obj
 <<
-/Type /Outlines
-/First 6 0 R
-/Last 22 0 R
-/Count 5
->>
-% 22 0 obj
-<<
-/Title 23 0 R
-/A 20 0 R
-/Parent 125 0 R
-/Prev 18 0 R
->>
-% 18 0 obj
-<<
-/Title 19 0 R
-/A 16 0 R
-/Parent 125 0 R
-/Prev 14 0 R
-/Next 22 0 R
->>
-% 14 0 obj
-<<
-/Title 15 0 R
-/A 12 0 R
-/Parent 125 0 R
-/Prev 10 0 R
-/Next 18 0 R
->>
-% 10 0 obj
-<<
-/Title 11 0 R
-/A 8 0 R
-/Parent 125 0 R
-/Prev 6 0 R
-/Next 14 0 R
->>
-% 6 0 obj
-<<
-/Title 7 0 R
-/A 3 0 R
-/Parent 125 0 R
-/Next 10 0 R
->>
-% 126 0 obj
-<<
-/Names [(Doc-Start) 67 0 R (page.1) 66 0 R (page.2) 103 0 R (page.3) 109 0 R (section.1) 5 0 R (section.2) 9 0 R]
+/Names [(Doc-Start) 46 0 R (page.1) 45 0 R (page.2) 85 0 R (page.3) 94 0 R (section.1) 49 0 R (section.2) 51 0 R]
 /Limits [(Doc-Start) (section.2)]
 >>
-% 127 0 obj
+% 109 0 obj
 <<
-/Names [(section.3) 13 0 R (section.4) 17 0 R (section.5) 21 0 R]
+/Names [(section.3) 86 0 R (section.4) 87 0 R (section.5) 88 0 R]
 /Limits [(section.3) (section.5)]
 >>
-% 128 0 obj
+% 110 0 obj
 <<
-/Kids [126 0 R 127 0 R]
+/Kids [108 0 R 109 0 R]
 /Limits [(Doc-Start) (section.5)]
->>
-% 129 0 obj
-<<
-/Dests 128 0 R
->>
-% 130 0 obj
-<<
-/Type /Catalog
-/Pages 71 0 R
-/Outlines 125 0 R
-/Names 129 0 R
-/PageMode/UseOutlines/Lang(en-US)/StructTreeRoot 1 0 R/MarkInfo <</Marked true /LetterspaceFlags 0>>
-/OpenAction 24 0 R
 >>
 
 endstream
 endobj
-132 0 obj
+114 0 obj
 <<
-/Type /XRef
-/Index [0 133]
-/Size 133
-/W [1 3 1]
-/Root 130 0 R
-/Info 131 0 R
-/ID [<ABBC345B611659DB65D7FA2E8A1E5166> <ABBC345B611659DB65D7FA2E8A1E5166>]
-/Length 665       
+/Producer (pdfTeX-1.40.26)
+/Author(\376\377\000N\000i\000s\000h\000a\000\040\000C\000h\000a\000n\000d\000r\000a\000m\000o\000o\000r\000t\000h\000y)/Title(\376\377\000C\000o\000u\000r\000s\000e\000\040\000S\000y\000l\000l\000a\000b\000u\000s)/Subject()/Creator(LaTeX with hyperref)/Keywords()
+/CreationDate (D:20260105210510-06'00')
+/ModDate (D:20260105210510-06'00')
+/Trapped /False
+/PTEX.Fullbanner (This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0)
+>>
+endobj
+112 0 obj
+<<
+/Type /ObjStm
+/N 2
+/First 13
+/Length 227       
 >>
 stream
-   nˇ  [  Y    É@   -  w      .  w      S  w
-      T  w	      U  w  	  
-  )              *  "    !                                 @  #  $  >  '  %  I  &  J  1  (  0  K  /     +  ,  w  w  w  w  4  2  3  L  7  5  6  M  :  8  9  N  =  ;  <  O  ?  P  D  A  B  C  G  E  F  X  H  W  Q  V  J   R  \  Z  ]  _ ?ë   ^    ˇ  w  `  a  b B   c ∑u   w Li ä   w8Z >[ D\   w  w  w  w  w  wJb X
- 
+111 0 113 33
+% 111 0 obj
+<<
+/Dests 110 0 R
+>>
+% 113 0 obj
+<<
+/Type /Catalog
+/Pages 52 0 R
+/Names 111 0 R
+/PageMode/UseOutlines/Lang(en-US)/StructTreeRoot 1 0 R/MarkInfo <</Marked true /LetterspaceFlags 0>>
+/OpenAction 3 0 R
+>>
+
+endstream
+endobj
+115 0 obj
+<<
+/Type /XRef
+/Index [0 116]
+/Size 116
+/W [1 3 1]
+/Root 113 0 R
+/Info 114 0 R
+/ID [<8B5D03B116F160D88E1AC185FE74005C> <8B5D03B116F160D88E1AC185FE74005C>]
+/Length 580       
+>>
+stream
+    ˇ  Q  O   €                          
+    	                          6      4        @  '    &  A  %     !  "  ^  _  #  ]  $  `  *  (  ?  )  B  -  +  ,  C  0  .  /  D  3  1  2  E  5  F  :  7  8  9  =  ;  <  N  >  M  G  L  M   H  I  J  K  P  S  U  R ?{   T  \  V  W  X A»   Y ÇÓ   Z ‰   [” 	‘ ’   a  b  c  p Oã   pMã P« 
 endstream
 endobj
 startxref
-88074
+86215
 %%EOF
