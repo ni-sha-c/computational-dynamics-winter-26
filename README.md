@@ -1,4 +1,5 @@
 <p>&nbsp;</p>
+<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="syllabus.pdf" href="/courses/69404/files/14584812?wrap=1" target="_blank" rel="noopener"><span style="font-size: 24pt;">syllabus.pdf</span></a></p>
 <p>&nbsp;</p>
 <table style="border-collapse: collapse; width: 97.201%; height: 1379px;" border="1">
     <tbody>
@@ -9,33 +10,36 @@
         </tr>
         <tr style="height: 101px;">
             <td style="width: 33.2897%; height: 101px;">01/06 (1)</td>
-            <td style="width: 33.2897%; height: 101px;">Course overview. Low-dimensional dynamics, examples. Linear algebra, probability review.&nbsp;</td>
-            <td style="width: 33.2897%; height: 101px;">Chapters 1 and 2 of <a class="inline_disabled external" href="https://www.cambridge.org/us/universitypress/subjects/mathematics/differential-and-integral-equations-dynamical-systems-and-co/introduction-modern-theory-dynamical-systems?format=PB&amp;isbn=9780521575577" target="_blank" rel="noopener"><span>Katok and Hasselblatt</span><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> </span></a><a class="inline_disabled external" href="https://www.cambridge.org/us/universitypress/subjects/mathematics/differential-and-integral-equations-dynamical-systems-and-co/introduction-modern-theory-dynamical-systems?format=PB&amp;isbn=9780521575577" target="_blank" rel="noopener"> Links to an external site.</a> (KH)</td>
+            <td style="width: 33.2897%; height: 101px;">Course overview. Maps, flows, phase space, autonomous, nonautonomous systems definitions. Two high-dimensional examples.&nbsp;</td>
+            <td style="width: 33.2897%; height: 101px;">Chapter 0 of <a class="inline_disabled external" href="https://www.cambridge.org/us/universitypress/subjects/mathematics/differential-and-integral-equations-dynamical-systems-and-co/introduction-modern-theory-dynamical-systems?format=PB&amp;isbn=9780521575577" target="_blank" rel="noopener"><span>Katok and Hasselblatt</span><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> </span></a><a class="inline_disabled external" href="https://www.cambridge.org/us/universitypress/subjects/mathematics/differential-and-integral-equations-dynamical-systems-and-co/introduction-modern-theory-dynamical-systems?format=PB&amp;isbn=9780521575577" target="_blank" rel="noopener"> Links to an external site.</a> (KH)</td>
         </tr>
         <tr style="height: 77px;">
             <td style="width: 33.2897%; height: 77px;">01/08 (2)</td>
-            <td style="width: 33.2897%; height: 77px;">Contraction maps, Banach fixed point theorem, notion of differential and vector fields</td>
-            <td style="width: 33.2897%; height: 77px;"><a class="inline_disabled external" href="https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf" target="_blank" rel="noopener">Rudin </a><a class="inline_disabled external" href="https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf" target="_blank" rel="noopener"><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> <span class="screenreader-only">Links to an external site.</span></span></a> Chapters 5,7,9,11.</td>
+            <td style="width: 33.2897%; height: 77px;">Introduction to ergodic systems and computational problems falling under ergodic, control, perturbation and learning theories. Almost sure convergence.</td>
+            <td style="width: 33.2897%; height: 77px;"><a class="inline_disabled" title="Link" href="http://www-sop.inria.fr/members/Giovanni.Neglia/probas/bertsekas_tsitsiklis_probability.pdf" target="_blank" rel="noopener">Bertsekas and Tsitsiklis, Chapter 7</a></td>
         </tr>
         <tr style="height: 77px;">
             <td style="width: 33.2897%; height: 77px;">01/13 (3)</td>
-            <td style="width: 33.2897%; height: 77px;">Inverse function theorem proof, other applications of contraction maps</td>
-            <td style="width: 33.2897%; height: 77px;">Rudin Chapter 7</td>
+            <td style="width: 33.2897%; height: 77px;">Evolution of probability densities under discrete time and continuous time dynamical systems; convergence notions of random variables; definition of invariant measure</td>
+            <td style="width: 33.2897%; height: 77px;"></td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 33.2897%; height: 29px;">01/15 (4)</td>
-            <td style="width: 33.2897%; height: 29px;">Linear hyperbolic dynamics</td>
-            <td style="width: 33.2897%; height: 29px;">Rudin, Chapter 1 of KH</td>
+            <td style="width: 33.2897%; height: 29px;">Introduction to transfer operators, example of convergence to invariant measure in Sawtooth map</td>
+            <td style="width: 33.2897%; height: 29px;"></td>
         </tr>
         <tr style="height: 77px;">
-            <td style="width: 33.2897%; height: 77px;">01/20 (5)</td>
-            <td style="width: 33.2897%; height: 77px;">Irrational circle rotations, topological transitivity, hamiltonian dynamics</td>
-            <td style="width: 33.2897%; height: 77px;"></td>
+            <td style="width: 33.2897%; height: 77px;">01/20 (5), postponed to 01/26</td>
+            <td style="width: 33.2897%; height: 77px;">Intuition behind Koopman eigenfunctions and connections to periodicity in the dynamics, why approximate the Koopman and transfer operators, Galerkin approximation on finite-dimensional space</td>
+            <td style="width: 33.2897%; height: 77px;"><a class="instructure_file_link instructure_scribd_file inline_disabled" title="edmd.pdf" href="/courses/69404/files/14696714?wrap=1" target="_blank" rel="noopener">edmd.pdf</a></td>
         </tr>
         <tr style="height: 125px;">
             <td style="width: 33.2897%; height: 125px;">01/22 (6)</td>
-            <td style="width: 33.2897%; height: 125px;">Linear perturbation theory, tangent equations, automatic differentiation basics</td>
-            <td style="width: 33.2897%; height: 125px;">Chapters 1 and 6 of KH</td>
+            <td style="width: 33.2897%; height: 125px;">
+                <p>Introduced the transfer and Koopman operators, function spaces L^1, L^\infty.</p>
+                <p>&nbsp;</p>
+            </td>
+            <td style="width: 33.2897%; height: 125px;"><a class="inline_disabled" title="Link" href="https://arxiv.org/pdf/1512.05997" target="_blank" rel="noopener">Klus, Koltai, Schutte 2016</a></td>
         </tr>
         <tr style="height: 77px;">
             <td style="width: 33.2897%; height: 77px;">01/27 (7)</td>
