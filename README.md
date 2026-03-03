@@ -39,7 +39,11 @@
                 <p>Introduced the transfer and Koopman operators, function spaces L^1, L^\infty.</p>
                 <p>&nbsp;</p>
             </td>
-            <td style="width: 33.2897%; height: 125px;"><a class="inline_disabled external" title="Link" href="https://arxiv.org/pdf/1512.05997" target="_blank" rel="noopener"><span>Klus, Koltai, Schutte 2016</span><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> <span class="screenreader-only">Links to an external site.</span></span></a></td>
+            <td style="width: 33.2897%; height: 125px;">
+                <p><a class="inline_disabled external" title="Link" href="https://arxiv.org/pdf/1512.05997" target="_blank" rel="noopener"><span>Klus, Koltai, Schutte 2016</span><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> <span class="screenreader-only">Links to an external site.</span></span></a></p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+            </td>
         </tr>
         <tr style="height: 77px;">
             <td style="width: 33.2897%; height: 77px;">01/27 (7)</td>
@@ -59,7 +63,11 @@
         <tr style="height: 53px;">
             <td style="width: 33.2897%; height: 53px;">02/05 (10)</td>
             <td style="width: 33.2897%; height: 53px;">Introduction to random dynamical systems: SDEs and discrete-time random maps</td>
-            <td style="width: 33.2897%; height: 53px;"><a class="inline_disabled external" title="Link" href="https://link.springer.com/article/10.1007/s00332-012-9126-5" target="_blank" rel="noopener"><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> <span class="screenreader-only">Links to an external site.</span></span></a></td>
+            <td style="width: 33.2897%; height: 53px;">
+                <p><a class="inline_disabled external" title="Link" href="https://link.springer.com/article/10.1007/s00332-012-9126-5" target="_blank" rel="noopener"><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> <span class="screenreader-only">Links to an external site.</span></span></a></p>
+                <p>&nbsp;</p>
+                <p><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"><span class="screenreader-only"><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="edmd-stoc.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14914370?wrap=1" target="_blank" rel="noopener" data-id="14914370">edmd-stoc.pdf</a><a class="file_download_btn" style="text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14914370/download" data-id="14914370"> <span class="screenreader-only">Download edmd-stoc.pdf</span></a></span></span></span></p>
+            </td>
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2897%; height: 53px;">02/10 (11)</td>
@@ -74,12 +82,12 @@
         <tr style="height: 53px;">
             <td style="width: 33.2897%; height: 53px;">02/17 (13)</td>
             <td style="width: 33.2897%; height: 53px;">Ito and Stratonovich calculus, Markov transition operators&nbsp;</td>
-            <td style="width: 33.2897%; height: 53px;"></td>
+            <td style="width: 33.2897%; height: 53px;"><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="rds.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14914369?wrap=1" target="_blank" rel="noopener" data-id="14914369">rds.pdf</a><a class="file_download_btn" style="text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14914369/download" data-id="14914369"> <span class="screenreader-only">Download rds.pdf</span></a></span></td>
         </tr>
         <tr style="height: 77px;">
             <td style="width: 33.2897%; height: 77px;">02/19 (14)</td>
             <td style="width: 33.2897%; height: 77px;">Ito processes, Koopman and transfer operators for stochastic systems, quiz discussion</td>
-            <td style="width: 33.2897%; height: 77px;"><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="quiz.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14893289?wrap=1" target="_blank" rel="noopener" data-id="14893289">quiz.pdf</a><a class="file_download_btn" style="margin-inline-start: 5px; text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14893289/download?download_frd=1" download="" data-id="14893289"> <span class="screenreader-only">Download quiz.pdf</span></a></span></td>
+            <td style="width: 33.2897%; height: 77px;"><span class="ally-file-link-holder link_holder"><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="quiz.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14893289?wrap=1" target="_blank" rel="noopener" data-id="14893289">quiz.pdf</a><a class="file_download_btn" style="text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14893289/download" data-id="14893289"> <span class="screenreader-only">Download quiz.pdf</span></a></span></span></td>
         </tr>
         <tr style="height: 137px;">
             <td style="width: 33.2897%; height: 137px;">02/24 (15)</td>
@@ -87,21 +95,25 @@
                 <p>Learning dynamical systems, generalization theory to extended to nonlinear dynamics</p>
                 <p>&nbsp;</p>
             </td>
-            <td style="width: 33.2897%; height: 137px;"><a class="inline_disabled external" title="Link" href="https://link.springer.com/article/10.1007/s00332-012-9126-5" target="_blank" rel="noopener"></a><a class="inline_disabled external" title="Link" href="https://epubs.siam.org/doi/10.1137/21M1401243" target="_blank" rel="noopener"><span>Brunton, Budisic, Kaiser and Kutz 2022</span><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> <span class="screenreader-only">Links to an external site.</span></span></a></td>
+            <td style="width: 33.2897%; height: 137px;">
+                <p><a class="inline_disabled external" title="Link" href="https://link.springer.com/article/10.1007/s00332-012-9126-5" target="_blank" rel="noopener"></a><a class="inline_disabled external" title="Link" href="https://epubs.siam.org/doi/10.1137/21M1401243" target="_blank" rel="noopener"><span>Brunton, Budisic, Kaiser and Kutz 2022</span><span class="external_link_icon" style="display: inline-block; text-indent: initial;" role="presentation"> <span class="screenreader-only">Links to an external site.</span></span></a></p>
+                <p>&nbsp;</p>
+                <p><span class="ally-file-link-holder link_holder"><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="learningDynamics.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14914368?wrap=1" target="_blank" rel="noopener" data-id="14914368">learningDynamics.pdf</a><a class="file_download_btn" style="text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14914368/download" data-id="14914368"> <span class="screenreader-only">Download learningDynamics.pdf</span></a></span></span></p>
+            </td>
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2897%; height: 53px;">02/26 (16)</td>
-            <td style="width: 33.2897%; height: 53px;">Koopman and transfer operator theory</td>
+            <td style="width: 33.2897%; height: 53px;">Learning one-step maps, learning using observables</td>
             <td style="width: 33.2897%; height: 53px;"></td>
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2897%; height: 53px;">03/03 (17)</td>
-            <td style="width: 33.2897%; height: 53px;">Computational methods for operator learning</td>
-            <td style="width: 33.2897%; height: 53px;"></td>
+            <td style="width: 33.2897%; height: 53px;">Quiz about learning dynamics does not imply learning linear stability</td>
+            <td style="width: 33.2897%; height: 53px;"><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="quiz2.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14947143?wrap=1" target="_blank" rel="noopener" data-id="14947143">quiz2.pdf</a><a class="file_download_btn" style="text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14947143/download?download_frd=1" data-id="14947143"> <span class="screenreader-only">Download quiz2.pdf</span></a></span></td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 33.2897%; height: 29px;">03/05 (18)</td>
-            <td style="width: 33.2897%; height: 29px;">ML surrogates for dynamical systems</td>
+            <td style="width: 33.2897%; height: 29px;">Sequence-to-sequence learning and transformers.</td>
             <td style="width: 33.2897%; height: 29px;"></td>
         </tr>
     </tbody>
@@ -124,11 +136,11 @@
         </tr>
         <tr>
             <td style="width: 49.9346%;">In-class quiz</td>
-            <td style="width: 49.9346%;">02/19 &nbsp;<span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="quiz.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14893289?wrap=1" target="_blank" rel="noopener" data-id="14893289">quiz.pdf</a><a class="file_download_btn" style="margin-inline-start: 5px; text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14893289/download?download_frd=1" download="" data-id="14893289"> <span class="screenreader-only">Download quiz.pdf</span></a></span></td>
+            <td style="width: 49.9346%;">02/19 &nbsp;<span class="ally-file-link-holder link_holder"><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="quiz.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14893289?wrap=1" target="_blank" rel="noopener" data-id="14893289">quiz.pdf</a><a class="file_download_btn" style="text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14893289/download" data-id="14893289"> <span class="screenreader-only">Download quiz.pdf</span></a></span></span></td>
         </tr>
         <tr>
             <td style="width: 49.9346%;">In-class quiz</td>
-            <td style="width: 49.9346%;">03/03</td>
+            <td style="width: 49.9346%;">03/03 <span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="quiz2.pdf" href="https://canvas.uchicago.edu/courses/69404/files/14947143?wrap=1" target="_blank" rel="noopener" data-id="14947143">quiz2.pdf</a><a class="file_download_btn" style="text-decoration: none;" role="button" href="https://canvas.uchicago.edu/courses/69404/files/14947143/download?download_frd=1" data-id="14947143"> <span class="screenreader-only">Download quiz2.pdf</span></a></span></td>
         </tr>
         <tr>
             <td style="width: 49.9346%;">Final project</td>
