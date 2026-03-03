@@ -1,0 +1,102 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage[margin=0.5in]{geometry}
+\newcommand{\pdata}{p_\mathrm{data}}
+\begin{document}
+\begin{center}
+Name: \rule{3in}{0.4pt} \hfill Total: 18 points
+\end{center}
+
+\medskip
+\noindent
+\textbf{Setup.}\; As before, let $F: M \to M$ be a $\mathcal{C}^2$ map on a compact set $M \subset \mathbb{R}^d.$
+Fix an orbit $\{x_t\}_{t\geq 0}$ defined by $x_t := F(x_{t-1}),$ and let $A_t := \nabla F(x_t)$ denote the $d\times d$ Jacobian matrix evaluated at $x_t.$
+
+\begin{enumerate}
+
+    %% ---- Question 1 ----
+    \item \textbf{(2 points)} A vector $v_t \in \mathbb{R}^d$ is called an \emph{infinitesimal linear perturbation} at time $t$ if the state $x_t$ is perturbed to $x_t + \epsilon\, v_t$ for an arbitrarily small $\epsilon > 0.$ Equivalently, $v_t$ belongs to the \emph{tangent space} $T_{x_t} M$ at $x_t.$
+
+    Starting from a given $v_0,$ derive the following recursive equation for the evolution of tangent vectors:
+    \begin{equation}
+            v_{t+1} = A_t \: v_t.
+    \end{equation}
+
+    \vspace{3in}
+
+    \newpage
+
+    %% ---- Question 2 ----
+    \item \textbf{(6 points)} Suppose we train a neural network $F_\mathrm{nn}$ by minimizing the mean squared error
+    \[
+        R(F_\mathrm{nn}) \;=\; \mathbb{E}_{x \sim \mu}\, \|F(x) - F_\mathrm{nn}(x)\|^2,
+    \]
+    where $\mu$ is an invariant measure of $F.$ Let $\{y_t = F_\mathrm{nn}^t(x_0)\}$ be the learned orbit, starting from the same initial condition $x_0$ as the true orbit.
+
+    For each of the following statements, determine whether it is true or false. Justify your answer.
+    \begin{itemize}
+        \item[(a)] If $x_t$ converges to a fixed point, then $\|v_t\| \to 0$ for every choice of $v_0$.
+
+        \vspace{1.5in}
+
+        \item[(b)] Let $w_{t+1} = B_t\, w_t,$ where $B_t := \nabla F_\mathrm{nn}(y_t).$ If both $x_t$ and $y_t$ converge to the same fixed point, then setting $w_0 = v_0$ implies $\|w_t\| \to 0.$
+
+        \vspace{1.5in}
+
+        \item[(c)] Suppose $\|v_t\| \sim \mathcal{O}(e^{\lambda t}).$ If $\lambda < 0,$ then for any $\delta > 0,$ there exists an $\epsilon > 0$ such that $\|y_t - x_t\| < \delta$ for all $t,$ whenever $R(F_\mathrm{nn}) < \epsilon.$
+
+        \vspace{1.5in}
+
+    \end{itemize}
+
+    \newpage
+
+    %% ---- Question 3 ----
+    \item \textbf{(10 points)} The figure below shows orbits of the Lorenz~'63 system, a three-variable model introduced to demonstrate that the Earth's climate system can exhibit chaotic behavior.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\textwidth]{lorenzNN.png}
+        \caption{Left: true orbit of $F$. Center: orbit of $F_\mathrm{nn},$ trained to minimize $R$. Right: orbit of $G_\mathrm{nn},$ trained to minimize $J.$}
+    \end{figure}
+
+    The model $F_\mathrm{nn}$ minimizes the mean squared error $R$ defined above. A second model, $G_\mathrm{nn},$ minimizes the Jacobian-regularized objective
+    \[
+        J(G) \;=\; R(G) \;+\; \alpha\, \mathbb{E}_{x\sim \mu}\|\nabla F(x) - \nabla G(x)\|^2,
+    \]
+    where $\alpha > 0$ is a tuning parameter.
+
+    \begin{itemize}
+        \item[(a)] The true system $F$ is chaotic: for Lebesgue-almost every $v_0,$ the tangent vector grows as $\|v_t\| \sim \mathcal{O}(e^{\lambda_1 t})$ with $\lambda_1 > 0$ for large $t.$ Looking at the center figure, do you expect the tangent vector $w_t$ along the orbit of $F_\mathrm{nn}$ to also exhibit exponential growth? Explain.
+
+        \vspace{2in}
+
+        \item[(b)] Will infinitesimal linear perturbations grow exponentially along the orbit of $G_\mathrm{nn}$ (right panel)? Explain.
+
+        \vspace{2in}
+
+        \newpage
+
+        \item[(c)] Suppose $G_\mathrm{nn}$ preserves the measure $\mu.$ True or false: for any $x_0 \sim \mu,$ although the orbits $\{G_\mathrm{nn}^t(x_0)\}$ and $\{F^t(x_0)\}$ do not match pointwise, their empirical distributions converge to the same distribution as $t \to \infty.$ Justify your answer.
+
+        \vspace{2.5in}
+
+        \item[(d)] Consider the following iterative procedure for computing the largest Lyapunov exponent:
+        \begin{itemize}
+            \item[\textbf{Initialize.}] Choose $v_0 \neq 0 \in \mathbb{R}^d$ and set $\bar{\lambda}_1 = 0.$ Repeat Steps~1--3 for $t = 1, 2, \ldots, T.$
+            \item[\textbf{Step 1.}] Evolve the tangent vector: $v_{t} = A_t\, v_{t-1}.$ Set $\eta_t = \|v_t\|.$
+            \item[\textbf{Step 2.}] Update the Lyapunov exponent estimate: $\bar{\lambda}_1 = \bigl(\bar{\lambda}_1 + \log \eta_t\bigr)/T.$
+            \item[\textbf{Step 3.}] Normalize: $v_t \leftarrow v_t / \eta_t.$
+        \end{itemize}
+        For large $T,$ $\bar{\lambda}_1$ converges to the largest Lyapunov exponent---the asymptotic exponential growth rate of tangent vectors. In ergodic systems like the one considered here, this quantity is independent of the particular orbit $\{x_t\}.$
+
+        Now suppose $C(x) := \nabla G_\mathrm{nn}(x)$ is a good approximation of $\nabla F(x)$ for all $x.$ If you repeat the above procedure using $F_\mathrm{nn}$ in place of $F,$ do you expect to recover the same largest Lyapunov exponent? What if you use $G_\mathrm{nn}$ instead? Justify your answers.
+
+        \vspace{2.5in}
+
+    \end{itemize}
+
+\end{enumerate}
+
+\end{document}
