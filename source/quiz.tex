@@ -1,0 +1,62 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{tikz}
+\usepackage[margin=0.5in]{geometry}
+\newcommand{\pdata}{p_\mathrm{data}}
+\begin{document}
+\begin{center}
+Name: \rule{3in}{0.4pt} \hfill Total: 16 points
+\end{center}
+We will consider a 2D Ornstein-Uhlenbeck process given by the following SDE:
+		\begin{equation}
+			dX_t = -\theta\: X_t \, dt + \sigma\: dW_t,
+		\end{equation}
+		where $\theta, \sigma > 0$ are constants. We will treat the paths $\{X_t\}$ as the solution of a random dynamical system, where the randomness comes from the standard Wiener process, $W_t,$ in 2D. There is a unique, invariant measure of the process given by
+		\begin{equation}
+			X_\infty \sim \mathcal{N}\!\left(0, \frac{\sigma^2}{2\theta} I_2\right).
+		\end{equation}
+We can use Ito integrals to obtain that the process $X_t$ is the following random variable,
+\begin{equation}
+	X_t = e^{-\theta \: t} X_0 + \sigma \int_0^t e^{-\theta(t-s)} dW_s.
+\end{equation}
+
+\begin{enumerate}
+
+	\item Below we see a simulation of the densities (estimated) of sample paths for a fixed Wiener path. That is, for a fixed path $W$, we see the distribution $\varphi^t_{W\sharp} \rho_0$ for some initial density, $\rho_0$ (a shifted Gaussian), at different times $t.$  As $t$ increases, the densities will concentrate at a single point. True or False? Justify your answer. (2 points)   
+		\begin{figure}[h]
+			\includegraphics[width=\textwidth]{ou_simulation_499.png}
+		\end{figure}
+	
+\newpage
+\item What is the distribution of the limiting points/set of points obtained from such simulations with fixed Wiener paths? In other words, what is $\lim_{t\to\infty}\mathbb{E}_{W \sim \mathbb{P}} \varphi^t_{W\sharp} \rho_0,$ where $\mathbb{P}$ is the Wiener measure? (2 points)
+
+\vfill
+
+\item Let $P_t(x, x_0)$ be the transition probability density of $X_t = x$ conditioned on $X_0 = x_0$. The Koopman operator $U^t:L^2(\mu) \to L^2(\mu)$ is given by 
+	\begin{equation}
+		U^t\: f(x_0) = \int P_t(x,x_0)\: f(x)\: dx. 
+	\end{equation}	
+	Relate this definition to the Koopman operator for the deterministic system, $\varphi^t_W$. (2 points)
+
+\vfill
+\newpage
+
+\item What is the Frobenius-Perron operator associated with the Koopman semigroup $U^t$? Write down how it acts on probability densities. \emph{Hint: it is the $L^2(dx)$ adjoint of $U^t$.} (2 points)
+
+
+\vfill
+
+\item Let $H_n(x) = h_{n_1}(x^{(1)})\: h_{n_2}(x^{(2)})$ be a product of 1D Hermite polynomials. Here, $n = (n_1, n_2)$ is a tuple of non-negative integers and $(x^{(1)}, x^{(2)})$ are coordinates of a point $x.$
+These are eigenfunctions of $U^t$ with eigenvalues $e^{-\theta (n_1 + n_2) t}.$ Knowing this, what do you expect the Koopman approximation to look like from EDMD, when choosing the span of $H_n$ as the basis? (3 points)
+\vfill
+
+
+\item Briefly describe how you would perform EDMD for this system using the basis functions from the previous part. (3 points)
+\vfill
+\newpage
+\item Any initial density converges to a Gaussian exponentially fast. Argue why or why not. (2 points)
+\end{enumerate}
+
+
+
+\end{document}
